@@ -1,0 +1,9 @@
+{
+  "name": "telemetrytv-vue-plugin",
+  "version": "1.0.0",
+  "description": "Vue plugin for the TelemetryTV SDK",
+  "main": "index.js",
+  "repository": "git@github.com:phoenixwong/telemetrytv-vue-plugin.git",
+  "author": "Phoenix Wong <phoenixyfwong@gmail.com>",
+  "license": "MIT"
+}
