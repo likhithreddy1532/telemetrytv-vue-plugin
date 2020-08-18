@@ -3,7 +3,13 @@
   "version": "1.0.0",
   "description": "Vue plugin for the TelemetryTV SDK",
   "main": "index.js",
-  "repository": "git@github.com:phoenixwong/telemetrytv-vue-plugin.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/telemetryapp/telemetrytv-vue-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/telemetryapp/telemetrytv-vue-plugin/issues"
+  },
   "author": "Phoenix Wong <phoenixyfwong@gmail.com>",
   "license": "MIT"
 }
